@@ -1,0 +1,13 @@
+{
+  "name": "pgmind-chat-bubble",
+  "version": "1.0.1",
+  "description": "you can add this package to your application and then implment chat-bubble widget ",
+  "main": "chat-bubble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ankush Tyagi <ankush.tyagi@squareboat.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
