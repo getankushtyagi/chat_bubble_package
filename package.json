@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "Ankush Tyagi <ankush.tyagi@squareboat.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getankushtyagi/chat_bubble_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/getankushtyagi/chat_bubble_package/issues"
+  },
+  "homepage": "https://github.com/getankushtyagi/chat_bubble_package#readme"
 }
