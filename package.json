@@ -1,6 +1,6 @@
 {
   "name": "pgmind-chat-bubble",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "you can add this package to your application and then implment chat-bubble widget ",
   "main": "chat-bubble.js",
   "scripts": {
